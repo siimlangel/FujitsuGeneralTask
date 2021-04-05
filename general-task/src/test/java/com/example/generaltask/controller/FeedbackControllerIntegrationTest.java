@@ -4,20 +4,18 @@ import com.example.generaltask.AbstractTest;
 import com.example.generaltask.model.Category;
 import com.example.generaltask.model.Feedback;
 import com.example.generaltask.repository.CategoryRepository;
-import com.example.generaltask.service.CategoryService;
+
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.jayway.jsonpath.DocumentContext;
+
 import com.jayway.jsonpath.JsonPath;
-import com.jayway.jsonpath.TypeRef;
-import org.json.JSONArray;
-import org.json.JSONException;
+
 import org.json.JSONObject;
-import org.junit.jupiter.api.BeforeAll;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
-import org.springframework.test.context.event.annotation.BeforeTestClass;
+
 import org.springframework.test.web.servlet.MvcResult;
 import org.springframework.test.web.servlet.request.MockHttpServletRequestBuilder;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;

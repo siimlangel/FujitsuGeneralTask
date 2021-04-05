@@ -1,7 +1,7 @@
 package com.example.generaltask.repository;
 
 import com.example.generaltask.model.Category;
-import com.example.generaltask.model.Feedback;
+
 import org.springframework.data.repository.CrudRepository;
 
 

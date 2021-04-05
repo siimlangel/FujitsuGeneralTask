@@ -2,7 +2,7 @@ package com.example.generaltask.controller;
 
 import com.example.generaltask.AbstractTest;
 import com.example.generaltask.model.Category;
-import com.example.generaltask.model.Feedback;
+
 import com.example.generaltask.repository.CategoryRepository;
 import com.jayway.jsonpath.JsonPath;
 import org.junit.jupiter.api.BeforeEach;

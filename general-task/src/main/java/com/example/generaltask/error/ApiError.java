@@ -1,11 +1,11 @@
 package com.example.generaltask.error;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-import net.bytebuddy.implementation.bytecode.Throw;
+
 import org.springframework.http.HttpStatus;
 
 import java.time.LocalDateTime;
-import java.util.List;
+
 
 /**
  * Class to send more helpful error messages to client
