@@ -1,4 +1,4 @@
-## General task for Fujitsu internsip
+## General task for Fujitsu internship
 
 ---
 
