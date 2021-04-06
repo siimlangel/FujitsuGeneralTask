@@ -25,5 +25,6 @@
 ##### Tech Used
 
 -   Vue.js
+-   Axios
 -   Jest
 -   Vue Test Utils
