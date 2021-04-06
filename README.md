@@ -9,6 +9,7 @@
 ##### Tech Used
 
 -   Spring Boot
+-   Maven
 -   JUnit
 -   Spring Web
 -   PostgreSQL
