@@ -1,4 +1,4 @@
-## General task for Fujitsu internship
+## Feedback app
 
 ---
 
